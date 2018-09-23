@@ -24,4 +24,4 @@ New SelfBot
 
 =>>pip2 install pyowm
 
-=>>Editing by Muhammad Fahmi Ridhani<<=
+= >> مو n.bw≥≥
