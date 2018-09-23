@@ -25,3 +25,7 @@ pip2 install tweepy
 pip2 install pyowm
 
 ≤≤ mosen.bw≥≥
+the
+https://youtu.be/Jq_nyqFe7o4
+
+اینhttps://youtu.be/q7zYkOv_ZAA
